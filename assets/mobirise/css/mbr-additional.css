@@ -4875,6 +4875,24 @@ body {
 .cid-rstnV93tJy P {
   color: #767676;
 }
+.cid-rz3HlIsNrW {
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rz3HlIsNrW .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rz3HlIsNrW .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rz3HlIsNrW .mbr-text {
+  color: #767676;
+}
 .cid-ryZD0iByDi {
   padding-top: 45px;
   padding-bottom: 60px;
