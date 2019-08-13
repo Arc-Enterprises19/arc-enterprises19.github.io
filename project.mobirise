@@ -307,6 +307,23 @@
             "slides__showBullets": true,
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/bp.001-1-1920x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Cornelius Salt wins G500,000",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "This time, Cornelius was sure it is A: Mole, but the Audience says C, Phone-A-Friend says B and Skype the Stranger says D, so he decided to take the G500,000 and not risking G475,000. Cornelius was sure it is A: Mole, but if he went for it, they would have won G1 Million. The correct answer was A: Mole.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/bp.001-1920x1080.jpg",
                 "active": false,
                 "showButtons": false,
@@ -321,11 +338,11 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Last episode, Amelia Brandford from Noble Cedric won 75,000 Bw.<br><br>Andrew Peters takes the 10,000 Bw he won on the last show with Alexander, now he walks away with 15,000 Bw.<br><br>Madeline Faine is now in the hot seat wins 150,000 Bw, will she win 250,000 Bw, walk away or lose 100,000 Bw. Find out next episode.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/bp.002-1920x1080.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/bp.003-1-1920x1080.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -338,23 +355,6 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Can Cornelius Salt from Worthington become the first contestant to answer the million gem question correctly against the clock?<br><br>He only has three lifelines and the time limit would be 46 seconds, plus the \"banked\" time from questions 1-10 so he needs to get a move on with his answer.<br><br>On the 13th August 2011, Sylvester Aubergines won G1 Million. No player has been able to leave the show with the top prize in nearly eight years. On the eighth year anniversary of crowning the first millionaire, will Cornelius become the SECOND? Will Cornelius Salt beat the Clock?",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bp.003-1920x1080.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "Cash Mountain Bowenesia are opened!",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Cash Mountain has finally come to Bowenesia and now, contestants from all over Commonwealth of Bowenesia want to see if they can have a go at playing for a million bowens.<br><br>One lucky player will get to play, can they not only be the first contestant, but also the first millionaire?",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
